@@ -80,7 +80,7 @@ A Use Case Diagram visually represents interactions between system users (actors
 - Manage Listings (Admin)
 
 ![Use Case Diagram](https://drive.google.com/file/d/1G-IuvycIY653u5ESwWBTPh0WcoRK1Onw/view?usp=sharing)
-![Use Case Diagram](./https://drive.google.com/file/d/1G-IuvycIY653u5ESwWBTPh0WcoRK1Onw/view?usp=sharing)
+![Use Case Diagram](https://drive.google.com/file/d/1G-IuvycIY653u5ESwWBTPh0WcoRK1Onw/view?usp=sharing)
 
 ## Acceptance Criteria
 

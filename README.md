@@ -79,7 +79,7 @@ A Use Case Diagram visually represents interactions between system users (actors
 - View Booking History
 - Manage Listings (Admin)
 
-![Use Case Diagram](./alx-booking-uc.png)
+![Use Case Diagram](./requirement-analysis/alx-booking-uc.png)
 
 ## Acceptance Criteria
 

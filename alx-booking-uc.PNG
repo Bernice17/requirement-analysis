@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.6">
+  <diagram name="Page-1" id="9WC0lZpMPre4xz6izmvo">
+    <mxGraphModel dx="872" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-rct-waWQRTCwXlOlDsD-5" edge="1" parent="1" source="-rct-waWQRTCwXlOlDsD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-rct-waWQRTCwXlOlDsD-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="180" />
+              <mxPoint x="230" y="90" />
+            </Array>
+            <mxPoint x="230" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rct-waWQRTCwXlOlDsD-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="SEARCH PROPERTY" vertex="1">
+          <mxGeometry height="100" width="100" x="40" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-rct-waWQRTCwXlOlDsD-9" edge="1" parent="1" source="-rct-waWQRTCwXlOlDsD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-rct-waWQRTCwXlOlDsD-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-rct-waWQRTCwXlOlDsD-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="CREATE ACCOUNT/ LOGIN" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-rct-waWQRTCwXlOlDsD-13" edge="1" parent="1" source="-rct-waWQRTCwXlOlDsD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-rct-waWQRTCwXlOlDsD-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-rct-waWQRTCwXlOlDsD-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="BOOK PROPERTY" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-rct-waWQRTCwXlOlDsD-15" edge="1" parent="1" source="-rct-waWQRTCwXlOlDsD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-rct-waWQRTCwXlOlDsD-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-rct-waWQRTCwXlOlDsD-12" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="MAKE PAYMENT/&lt;div&gt;CHECKOUT&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="480" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-rct-waWQRTCwXlOlDsD-19" edge="1" parent="1" source="-rct-waWQRTCwXlOlDsD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-rct-waWQRTCwXlOlDsD-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-rct-waWQRTCwXlOlDsD-14" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="VIEW BOOKING&lt;div&gt;&amp;nbsp;HISTORY&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="420" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="-rct-waWQRTCwXlOlDsD-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="MANAGE LISTING" vertex="1">
+          <mxGeometry height="160" width="135" x="170" y="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
